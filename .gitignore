@@ -1,0 +1,6 @@
+kit/
+competition.json
+requirements.json
+usage-*.jsonl
+transcripts*.tar.gz
+output/
